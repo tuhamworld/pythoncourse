@@ -5,3 +5,6 @@ def traverse(fld):
         print(f'Folder: {fldpath}')
         for fn in fls:
             print(f'\t{fn}')
+
+
+traverse('./files')
