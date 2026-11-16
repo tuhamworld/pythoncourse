@@ -12,4 +12,5 @@ def match(fld, search):
 # match('./files', '*1*_file.csv')
 # match('./files', '*2*_file.csv')
 # match('./files', '*2*_test.csv')
-match('./files', '*2*.t*')
+# match('./files', '*2*.t*')
+# match('../', '*.zip')
